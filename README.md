@@ -33,4 +33,6 @@ This project implements a **LangChain agent integrated with Gradio** to handle u
 
 ---
 
-<img width="1917" height="812" alt="image" src="https://github.com/user-attachments/assets/1d0f74f3-3048-4a3a-a1a8-21ad81fd92bf" />
+<img width="1883" height="872" alt="image" src="https://github.com/user-attachments/assets/819aade9-476c-4e10-8269-6fa22ecc89d4" />
+
+
