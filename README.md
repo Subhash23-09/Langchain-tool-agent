@@ -32,7 +32,8 @@ This project implements a **LangChain agent integrated with Gradio** to handle u
 | `os`                     | Handles environment variables (e.g., storing the Google API key).                                          |
 
 ---
-
+### Frontend Interface and Results
 <img width="1883" height="872" alt="image" src="https://github.com/user-attachments/assets/819aade9-476c-4e10-8269-6fa22ecc89d4" />
 
+<img width="1807" height="425" alt="image" src="https://github.com/user-attachments/assets/8bee1b73-ea71-44bd-acb9-a065bbb8967c" />
 
